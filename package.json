@@ -1,0 +1,22 @@
+{
+  "name": "js-hash-table",
+  "version": "1.0.0",
+  "description": "Various implementations of the hash table data structure using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fals3Android/js-hash-table.git"
+  },
+  "keywords": [
+    "hash-table"
+  ],
+  "author": "David Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fals3Android/js-hash-table/issues"
+  },
+  "homepage": "https://github.com/Fals3Android/js-hash-table#readme"
+}
